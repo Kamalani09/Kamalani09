@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Raja Kamalani
+# 👋 Hi, I'm Kamalani Raja
 
 ### Full-Stack Developer | DSA Enthusiast | Cloud Learner
 
